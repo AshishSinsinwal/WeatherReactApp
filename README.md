@@ -2,7 +2,7 @@
 
 A sleek weather application built with React and Material-UI that displays real-time weather data for any city worldwide.
 
-![Weather App Screenshot](./assets/weatherPreview.png)
+![Weather App](./weatherPreview.png)
 
 ## Features ✨
 
@@ -105,4 +105,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Ashish Sinsinwal]
+Made with ❤️ by Ashish Sinsinwal
