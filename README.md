@@ -25,7 +25,7 @@ A sleek weather application built with React and Material-UI that displays real-
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/AshishSinsinwal/WeatherReactApp.git
    ```
 
 2. **Navigate to project directory:**
